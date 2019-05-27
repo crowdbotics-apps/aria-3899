@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT aria_3899.wsgi:application
